@@ -6,7 +6,10 @@
 
 
 
-##🎯 About Me
+
+
+
+🎯 About Me
 
 
 💡 I'm currently learning GitHub and version control before diving into coding.
@@ -19,7 +22,11 @@
 
 
 
+
+
+
 🛠️ Tech Stack
+
 
 
 Currently learning:
@@ -27,6 +34,8 @@ Currently learning:
 Git
 
 GitHub
+
+
 
 Future Technologies:
 
