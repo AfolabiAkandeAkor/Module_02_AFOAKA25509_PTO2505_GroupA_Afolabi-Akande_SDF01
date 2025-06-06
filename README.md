@@ -5,7 +5,8 @@
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 
-🎯 About Me
+
+##🎯 About Me
 
 
 💡 I'm currently learning GitHub and version control before diving into coding.
@@ -30,5 +31,7 @@ GitHub
 Future Technologies:
 
 HTML5, CSS3, JavaScript
+
 React
+
 
