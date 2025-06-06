@@ -86,3 +86,41 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 💡 Build real-world projects and collaborate with others
 
+
+
+📫 Connect with Me
+
+
+
+GitHub
+
+LinkedIn
+
+📧 Email: folaakorede@yahoo.com
+
+🚀 Fun Fact
+
+
+💡 I love learning new things and can't wait to build my first website!
+
+
+
+🏆 GitHub Stats
+
+
+
+AfolabiAkandeAkor's GitHub Stats
+
+ Total Stars Earned:        0
+
+ Total Commits (2025):      0
+
+ Total PRs:                 0
+
+ Total Issues:              0
+
+ Contributed to (Lastyear): 0       
+
+
+
+
